@@ -3,12 +3,4 @@ separator = '|'
 blank_space = '   '
 dash = '-----------'
 
-def display_board
-  puts blank_space + separator + blank_space + separator + blank_space
-  puts dash
-  puts blank_space + separator + blank_space + separator + blank_space
-  puts dash
-  puts blank_space + separator + blank_space + separator + blank_space
-end
-
-display_board
+puts blank_space
